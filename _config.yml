@@ -6,9 +6,9 @@ color:
   saturation: 0.3145993638318032
   rhythmicContrast: 0.194960945751518
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: grad's guide
