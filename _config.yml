@@ -1,0 +1,14 @@
+layout_spectrum: 0.011781033594161272
+typography_spectrum: 0.524933187989518
+color:
+  brandStrength: 0.5427319565787911
+  lightness: 0.4691287267487496
+  saturation: 0.3145993638318032
+  rhythmicContrast: 0.194960945751518
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: grad's guide
